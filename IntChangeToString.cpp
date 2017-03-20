@@ -1,4 +1,5 @@
 /*** function:integer changes to string ***/
+/*** do not use the 'itoa' function ***/
 #include<iostream>
 
 using namespace std;
